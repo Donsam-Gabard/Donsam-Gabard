@@ -1,11 +1,10 @@
 
 ---
 "🎓 Donsam Jean Gabard NOEL 🌟 Portfolio"
-
 ---
 
 # 📌 Table des Matières
-1. [👤 Profil](#-profil)
+1. [👤 À propos de moi](#-à-propos-de-moi)
 2. [💻 Compétences Professionnelles](#-compétences-professionnelles)
 3. [🚀 Projets Académiques et Personnels](#-projets-académiques-et-personnels)
 4. [💼 Expérience Professionnelle](#-expérience-professionnelle)
@@ -14,17 +13,17 @@
 
 ---
 
-# 👤 Profil
+# 👤 À propos de moi
 
-![Photo de Profil](https://via.placeholder.com/150)
+<p align="center">
+<img src="https://github.com/Donsam-Gabard/D-clic/blob/main/Recette/Voici_des_photos_202604011820.png" alt="Photo de Profil" width="350" style="border-radius: 15px; box-shadow: 0px 4px 15px rgba(0,0,0,0.1);">
+</p>
 
-**👋 Nom** : Donsam Jean Gabard NOEL
-**🎂 Âge** : 22 ans
-**🎯 Domaine Principal** : Sciences Informatiques (Réseaux & Cybersécurité)
-**📚 Éducation** : Licence 3 en Sciences Informatiques (IUS) | Licence 3 en Sciences Juridiques (UEH)
-**👨‍🏫 Rôle Actuel** : Enseignant & Responsable Informatique au Centre d'Études Abel Noel
+> Je m'appelle **Donsam Jean Gabard NOEL** et, à 22 ans, mon parcours se définit par une double ambition : maîtriser la technologie et comprendre la loi. Actuellement en double cursus de **Licence 3 en Sciences Informatiques (IUS)** et en **Sciences Juridiques (UEH)**, je développe une expertise hybride qui allie rigueur analytique et maîtrise technique.
 
-> "Passionné par l'informatique, je me spécialise dans les réseaux et la cybersécurité pour construire un avenir numérique sécurisé. 🌐🔒"
+> Au quotidien, j'assume les responsabilités d'**Enseignant et Responsable Informatique** au Centre d'Études Abel Noël. Cette expérience me permet de piloter des infrastructures numériques concrètes tout en transmettant des savoirs technologiques complexes. Passionné par l'innovation, je me prépare à devenir un expert capable de relever les défis où le droit et l'informatique se rencontrent pour construire le monde de demain.
+
+> "La technologie est au cœur de l'innovation et de l'éducation. 💡"
 
 ---
 
@@ -32,13 +31,13 @@
 
 ## 🌐 Domaines d'Expertise
 - **Réseaux** 
-- **Systèmes** 
+- **Administration Système** 
 - **Marketing Numérique** 
 
 ## 🛠️ Outils et Technologies Maîtrisés
 - **Virtualisation** : VMware
 - **Base de Données** : Access, MySQL
-- **Développement Web** : HTML, CSS, JavaScript,
+- **Développement Web** : HTML, CSS, JavaScript
 - **Automatisation** : Python
 
 ## 💡 Langages de Programmation
@@ -46,20 +45,24 @@
 - ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) 🌐
 - ![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white) ⚙️
 
+## 📋 Liste des Compétences
+- Gestion de projets informatiques
+- Gestion de projets en Marketing Numérique
+- Enseignement et formation en informatique
+- Développement d'applications web
+
 ---
 
 # 🚀 Projets Académiques et Personnels
 
-## 🔧 Projet 1: Système de Gestion de Réseau Local
-- **Description** : Conception et mise en place d'un réseau local sécurisé pour une école.
-- **Technologies** : Linux, Firewall, VPN
-- **Résultats** : Amélioration de la sécurité et de la performance du réseau.
-- **Statut** : 🚀 En cours
+## 🗃️ Projet 1: Base de Données pour la Gestion Scolaire
+- **Description** : Création d'une base pour gérer les notes et inscriptions des étudiants.
+- **Technologies** : MySQL
+- **Statut** : 🚀  En cours
 
-## 🌐 Projet 2: Site E-commerce
-- **Description** : Creation
-- **Technologies** : HTML, CSS, JavaScript, PHP, MySQL
-- **Lien** : [GitHub 🔗](https://github.com/donsamnoel/school-management-app)
+## 🌐 Projet 2: Site E-commerce 
+- **Description** : Création d'une boutique Shopify EliteGym
+- **Technologies** : Shopify
 - **Statut** : ✅ Terminé
 
 ---
@@ -70,7 +73,6 @@
 **🏫 Centre d'Études Abel Noel**
 - **Rôle** : Enseignement des bases de l'informatique et gestion de l'infrastructure informatique de l'école.
 - **Responsabilités** :
-  - Administration des systèmes et réseaux 🌐
   - Formation des étudiants et du personnel 👨‍🎓
   - Maintenance des équipements informatiques 🛠️
 - **Durée** : Depuis 2023
@@ -78,12 +80,11 @@
 ---
 
 # 🎓 Formations et Certifications
-
-| Formation / Certification               | Institution | Année      |
-|-----------------------------------------|-------------|------------|
-| Licence 3 en Sciences Informatiques     | IUS         | 2023-2026  |
-| Licence 3 en Sciences Juridiques       | UEH         | 2023-2026  |
-| Certification en Cybersécurité         | En cours    | 2026       |
+   Formation / Certification               | Institution | Année      |
+ |-----------------------------------------|-------------|------------|
+ | Licence 3 en Sciences Informatiques     | IUS         | 2023-2026  |
+ | Licence 3 en Sciences Juridiques       | UEH         | 2023-2026  |
+ | Certification en Marketing Numérique   | D-Clic      | 2025       |
 
 ---
 
@@ -92,28 +93,20 @@
 - [x] Finaliser la création de la base de données pour le Centre d'Études Abel Noël 🗃️
 - [x] Développer un site web éducatif pour le Centre d'Études Abel Noël 🌐
 - [x] Me lancer dans la création de contenu 📹
-- [x] Ajouter une image 🖼️
-- [x] Créer un tableau Markdown avec des données pertinentes 📊
-- [x] Rédiger un texte avec citations 💬
-- [x] Inclure un bloc de code avec spécification de langage 💻
-- [x] Ajouter une syntaxe HTML 🌐
-- [x] Créer un diagramme Mermaid pour illustrer un processus 🔄
-- [ ]  
-
+ 
 ---
 
 # 📊 Compétences et Projets
 
 | Compétence / Projet               | Description                                                                 | Statut      |
 |-----------------------------------|-----------------------------------------------------------------------------|-------------|
-| Gestion de Réseau Local           | Configuration et sécurisation d'un réseau pour une école.                 | ✅ Terminé   |
-| Application de Gestion Scolaire   | Développement d'une application pour gérer les notes et présences.         | ✅ Terminé   |
+| Gestion de Base de donnée         | Création et deploiment d'une base de donnée pour une école                  | ✅ Actif   |
+| Site E-commerce                   | Création d'une boutique Shopify EliteGym                                    | ✅ Terminé   |
 | Enseignement Informatique         | Formation des étudiants en informatique au Centre d'Études Abel Noel.       | ✅ Actif     |
 
 > "L'apprentissage continu et la pratique sont les clés pour exceller en informatique. 💡"
 
 ---
-
 
 # 🔄 Diagramme Mermaid: Processus de Gestion de Projet
 
